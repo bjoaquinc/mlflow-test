@@ -1,0 +1,9 @@
+digest: 2785e481
+name: dataset
+profile: '{"num_rows": 2, "num_elements": 6}'
+schema: '{"mlflow_colspec": [{"type": "string", "name": "inputs", "required": true},
+  {"type": "string", "name": "outputs", "required": true}, {"type": "string", "name":
+  "ground_truth", "required": true}]}'
+source: '{"tags": {"mlflow.user": "joaquincoromina", "mlflow.source.name": "/opt/homebrew/Caskroom/mambaforge/base/envs/mlflow-env/lib/python3.12/site-packages/ipykernel_launcher.py",
+  "mlflow.source.type": "LOCAL"}}'
+source_type: code
