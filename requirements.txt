@@ -66,6 +66,7 @@ pyasn1==0.6.1
 pyasn1_modules==0.4.1
 Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1736243443484/work
 pyparsing==3.2.1
+pyphen==0.17.0
 python-dateutil @ file:///home/conda/feedstock_root/build_artifacts/python-dateutil_1733215673016/work
 pytz==2024.2
 PyYAML==6.0.2
@@ -81,6 +82,7 @@ smmap==5.0.2
 SQLAlchemy==2.0.37
 sqlparse==0.5.3
 stack_data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1733569443808/work
+textstat==0.7.4
 threadpoolctl==3.5.0
 tiktoken==0.8.0
 tornado @ file:///Users/runner/miniforge3/conda-bld/tornado_1732615911982/work
