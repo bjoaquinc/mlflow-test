@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joaquincoromina/projects/mlflow/mlflow-test/notebooks/mlruns/0/505eafeef0234a9d9576ff5d7d8dc895/artifacts
+end_time: 1737273923617
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 505eafeef0234a9d9576ff5d7d8dc895
+run_name: legendary-hawk-57
+run_uuid: 505eafeef0234a9d9576ff5d7d8dc895
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737273921484
+status: 3
+tags: []
+user_id: joaquincoromina

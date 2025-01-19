@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joaquincoromina/projects/mlflow/mlflow-test/notebooks/mlruns/0/125e32eb708f4c8681f42c11c80b9729/artifacts
+end_time: 1737274079096
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 125e32eb708f4c8681f42c11c80b9729
+run_name: beautiful-mole-243
+run_uuid: 125e32eb708f4c8681f42c11c80b9729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737274076931
+status: 3
+tags: []
+user_id: joaquincoromina
