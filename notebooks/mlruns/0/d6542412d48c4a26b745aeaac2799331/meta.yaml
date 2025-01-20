@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/joaquincoromina/projects/mlflow/mlflow-test/notebooks/mlruns/0/d6542412d48c4a26b745aeaac2799331/artifacts
+end_time: 1737281660758
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: d6542412d48c4a26b745aeaac2799331
+run_name: evaluate_qa
+run_uuid: d6542412d48c4a26b745aeaac2799331
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1737281459156
+status: 4
+tags: []
+user_id: joaquincoromina
